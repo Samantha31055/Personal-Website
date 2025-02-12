@@ -1,16 +1,19 @@
+/* General page styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f21010; /* Light gray background */
     color: #3f0505; /* Dark text color for contrast */
     margin: 0;
-    padding: 0;}
+    padding: 0;
+}
 
 /* Header styles */
 header {
     background-color: #4CAF50; /* Green background for the header */
     color: white; /* White text color */
     padding: 20px;
-    text-align: cente}
+    text-align: center; /* Fixed typo here */
+}
 
 header h1 {
     margin: 0;
@@ -23,7 +26,8 @@ header p {
 
 /* Section styles */
 section {
-    padding: 20px;}
+    padding: 20px;
+}
 
 /* Routine section */
 #routine h2 {
